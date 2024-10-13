@@ -10,15 +10,13 @@
 
 - 👯 I’m looking to collaborate on **in Python Projects**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m am mastered in **Python**
 
 - 👨‍💻 All of my projects are available onilable at [https://github.com/Umer-Khan-00000](https://github.com/Umer-Khan-00000)
 
-- 💬 Ask me about **HTML5, CSS3, JS**
+- 💬 Ask me about **HTML5, CSS3, JS, Python**
 
 - 📫 How to reach me **umerwork3931@gmail.com**
-
-- ⚡ Fun fact **I think I am funny !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
