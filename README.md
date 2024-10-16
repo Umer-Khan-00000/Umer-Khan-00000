@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Umer Khan</h1>
 <h3 align="center">A Python Developer from Pakistan</h3>
 
-![Screenshot 2024-10-17 011037](https://github.com/user-attachments/assets/20ceb935-2322-42e6-a751-c184cb6cf962)
+![Screenshot 2024-10-17 011442](https://github.com/user-attachments/assets/73fee8e6-3271-4574-8965-f14e0f77074c)
+
 
 
 
