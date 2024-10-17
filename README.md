@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umer Khan</h1>
 <h3 align="center">A Python Developer from Pakistan</h3>
 
-  ![Screenshot 2024-10-17 020456](https://github.com/user-attachments/assets/9597f9ec-3cf0-4b42-8f29-d8bf590dbdd9)
-
-
-
+ <p align="center"> <img src = ![Screenshot 2024-10-18 013654](https://github.com/user-attachments/assets/5fe01815-50e2-4afe-aeb4-f780f9c392c4) /> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umer-khan-00000&label=Profile%20views&color=0e75b6&style=flat" alt="umer-khan-00000" /> </p>
