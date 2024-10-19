@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umer-khan-00000&label=Profile%20views&color=0e75b6&style=flat" alt="umer-khan-00000" /> </p>
 
-- 🔭 I’m currently working on **Kaun Banega Crorepati**
+- 🔭 I’m currently working on **Coding & Decoding**
 
 - 👯 I’m looking to collaborate on **in Python Projects**
 
