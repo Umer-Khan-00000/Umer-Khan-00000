@@ -3,10 +3,6 @@
 
  ![Black Modern Professional Resume](https://github.com/user-attachments/assets/7ad573f8-5541-40ed-83a1-4ae54bf112c3)
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umer-khan-00000&label=Profile%20views&color=0e75b6&style=flat" alt="umer-khan-00000" /> </p>
-
 - 🔭 I’m currently working on **Coding & Decoding**
 
 - 👯 I’m looking to collaborate on **in Python Projects**
