@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umer Khan</h1>
 <h3 align="center">A Python Developer from Pakistan</h3>
 
-[Black Modern Professional Resume (3).pdf](https://github.com/user-attachments/files/22238498/Black.Modern.Professional.Resume.3.pdf)
+![Black Modern Professional Resume (3).pdf](https://github.com/user-attachments/files/22238498/Black.Modern.Professional.Resume.3.pdf)
 
 - 🔭 I’m currently working on **Coding & Decoding**
 
