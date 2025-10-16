@@ -1,30 +1,76 @@
-<h1 align="center">Hi 👋, I'm Umer Khan</h1>
-<h3 align="center">A Python Developer from Pakistan</h3>
+<!-- 🌟 Umer Khan's GitHub Profile 🌟 -->
 
-<img width="1414" height="2000" alt="image" src="https://github.com/user-attachments/[My Updated Resume (3).pdf](https://github.com/user-attachments/files/22956049/My.Updated.Resume.3.pdf)
-assets/5da56a7b-b32d-42f8-acaf-6668b97a829a" />
+<h1 align="center">Hi there, I'm <a href="https://github.com/UmerKhan">Umer Khan</a> 👋</h1>
+<h3 align="center">🚀 Front-end Developer | Python Developer | AI Engineer (Agentic AI & Prompt Engineering)</h3>
 
-- 🔭 I’m currently working on **Coding & Decoding**
-
-- 👯 I’m looking to collaborate on **in Python Projects**
-
-- 🤝 I’m am mastered in **Python**
-
-- 👨‍💻 All of my projects are available onilable at [https://github.com/Umer-Khan-00000](https://github.com/Umer-Khan-00000)
-
-- 💬 Ask me about **HTML5, CSS3, JS, Python**
-
-- 📫 How to reach me **umerwork3931@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/umerkhan15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umer khan" height="30" width="40" /></a>
-<a href="https://instagram.com/_umer.khan.007_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_umer.khan.007_" height="30" width="40" /></a>
-<a href="https://discord.gg/UmerKhan00345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="UmerKhan00345" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=550&lines=Building+beautiful+web+experiences;Creating+AI-powered+automations;Exploring+Agentic+AI+and+n8n+workflows" alt="Typing animation" />
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umer-khan-00000&show_icons=true&locale=en" alt="umer-khan-00000" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umer-khan-00000&" alt="umer-khan-00000" /></p>
+### 🧠 About Me  
+💡 *Building beautiful web experiences and smart AI automations.*  
+🌱 Currently exploring **Agentic AI, Prompt Engineering, and Automation with n8n**  
+💬 Ask me about **Front-end Development, Python, and AI workflows**  
+📫 Reach me at **umerlinkedin2025@gmail.com**  
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/umer-shahid-ali)  
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,tailwind,git,github,vscode" />
+  <br/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-%2300C853.svg?&style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-%23F37E26.svg?&style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+---
+
+### ⚡ Featured Projects
+
+| Project | Description | Tech |
+|----------|--------------|------|
+| 🎨 **Creative Agency Portfolio** | A sleek, animated agency website built with HTML, CSS, and JS. | HTML, CSS, JS |
+| 🤖 **AI Automation Bot** | Agentic AI bot built using Python and n8n for task automation. | Python, n8n |
+| 💰 **Expense Tracker** | Web app to manage and visualize expenses. | JS, LocalStorage, Chart.js |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UmerKhan&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmerKhan&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+### 🧩 Fun Zone
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=UmerKhan&theme=algolia&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmerKhan&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌍 Let's Connect  
+<p align="center">
+  <a href="https://www.linkedin.com/in/umer-shahid-ali">
+    <img src="https://img.shields.io/badge/LinkedIn-Umer%20Shahid%20Ali-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:umerlinkedin2025@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ *"Code beautifully, automate smartly, and keep exploring AI."*  
+<p align="center">— Umer Khan</p>
