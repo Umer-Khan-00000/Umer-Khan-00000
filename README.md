@@ -1,6 +1,6 @@
 <!-- 🌟 Umer Khan's GitHub Profile 🌟 -->
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/UmerKhan">Umer Khan</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/UmerKhan">Umer Shahid Ali</a> 👋</h1>
 <h3 align="center">🚀 Front-end Developer | Python Developer | AI Engineer (Agentic AI & Prompt Engineering)</h3>
 
 <p align="center">
