@@ -35,7 +35,7 @@
 |----------|--------------|------|
 | 🎨 **Creative Agency Portfolio** | A sleek, animated agency website built with HTML, CSS, and JS. | HTML, CSS, JS |
 | 🤖 **AI Automation Bot** | Agentic AI bot built using Python and n8n for task automation. | Python, n8n |
-| 💰 **Expense Tracker** | Web app to manage and visualize expenses. | JS, LocalStorage, Chart.js |
+| 💰 **Expense Tracker** | Web app to manage and visualize expenses. | HTML5, CSS3, JS |
 
 ---
 
@@ -62,7 +62,7 @@
 
 ### 🌍 Let's Connect  
 <p align="center">
-  <a href="https://www.linkedin.com/in/umer-shahid-ali">
+  <a href="www.linkedin.com/in/umer-shahid-ali-b26721383">
     <img src="https://img.shields.io/badge/LinkedIn-Umer%20Shahid%20Ali-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:umerlinkedin2025@gmail.com">
