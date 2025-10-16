@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Umer Khan</h1>
 <h3 align="center">A Python Developer from Pakistan</h3>
 
-<img width="1414" height="2000" alt="image" src="https://github.com/user-attachments/assets/5da56a7b-b32d-42f8-acaf-6668b97a829a" />
+<img width="1414" height="2000" alt="image" src="https://github.com/user-attachments/[My Updated Resume (3).pdf](https://github.com/user-attachments/files/22956049/My.Updated.Resume.3.pdf)
+assets/5da56a7b-b32d-42f8-acaf-6668b97a829a" />
 
 - 🔭 I’m currently working on **Coding & Decoding**
 
